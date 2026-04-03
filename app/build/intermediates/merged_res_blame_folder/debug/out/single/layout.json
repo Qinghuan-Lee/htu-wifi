@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.example.campusnethelper.app-mergeDebugResources-47:/layout/fragment_login.xml",
+        "source": "com.example.campusnethelper.app-main-50:/layout/fragment_login.xml"
+    },
+    {
+        "merged": "com.example.campusnethelper.app-mergeDebugResources-47:/layout/fragment_home.xml",
+        "source": "com.example.campusnethelper.app-main-50:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.campusnethelper.app-mergeDebugResources-47:/layout/fragment_settings.xml",
+        "source": "com.example.campusnethelper.app-main-50:/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "com.example.campusnethelper.app-mergeDebugResources-47:/layout/fragment_account.xml",
+        "source": "com.example.campusnethelper.app-main-50:/layout/fragment_account.xml"
+    },
+    {
+        "merged": "com.example.campusnethelper.app-mergeDebugResources-47:/layout/activity_main.xml",
+        "source": "com.example.campusnethelper.app-main-50:/layout/activity_main.xml"
+    }
+]

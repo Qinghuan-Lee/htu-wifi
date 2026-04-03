@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="md_green">#2ECC71</color>
+    <color name="md_on_primary">#FFFFFF</color>
+    <color name="md_primary">#2F80ED</color>
+    <color name="md_red">#E74C3C</color>
+    <string name="account_manage">账号管理</string>
+    <string name="app_name">Onimai</string>
+    <string name="home_title">校园网助手</string>
+    <string name="login">登录</string>
+    <string name="reconnect">重新连接</string>
+    <string name="remember_credentials">记住账号密码</string>
+    <string name="settings">设置</string>
+    <style name="Theme.CampusNetHelper" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/md_primary</item>
+        <item name="colorOnPrimary">@color/md_on_primary</item>
+    </style>
+</resources>

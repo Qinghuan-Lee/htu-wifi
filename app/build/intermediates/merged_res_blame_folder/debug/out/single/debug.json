@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\26272\\.gradle\\daemon\\8.9\\com.example.campusnethelper.app-merged_res-48:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\26272\\.gradle\\daemon\\8.9\\com.example.campusnethelper.app-main-50:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\26272\\.gradle\\daemon\\8.9\\com.example.campusnethelper.app-merged_res-48:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\26272\\.gradle\\daemon\\8.9\\com.example.campusnethelper.app-main-50:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\26272\\.gradle\\daemon\\8.9\\com.example.campusnethelper.app-merged_res-48:\\layout_fragment_settings.xml.flat",
+        "source": "C:\\Users\\26272\\.gradle\\daemon\\8.9\\com.example.campusnethelper.app-main-50:\\layout\\fragment_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\26272\\.gradle\\daemon\\8.9\\com.example.campusnethelper.app-merged_res-48:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\26272\\.gradle\\daemon\\8.9\\com.example.campusnethelper.app-main-50:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\26272\\.gradle\\daemon\\8.9\\com.example.campusnethelper.app-merged_res-48:\\layout_fragment_account.xml.flat",
+        "source": "C:\\Users\\26272\\.gradle\\daemon\\8.9\\com.example.campusnethelper.app-main-50:\\layout\\fragment_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\26272\\.gradle\\daemon\\8.9\\com.example.campusnethelper.app-merged_res-48:\\layout_fragment_login.xml.flat",
+        "source": "C:\\Users\\26272\\.gradle\\daemon\\8.9\\com.example.campusnethelper.app-main-50:\\layout\\fragment_login.xml"
+    },
+    {
+        "merged": "com.example.campusnethelper.app-merged_res-48:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.campusnethelper.app-main-50:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.campusnethelper.app-merged_res-48:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.campusnethelper.app-main-50:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.campusnethelper.app-merged_res-48:/mipmap-xxhdpi_mahiro.jpg.flat",
+        "source": "com.example.campusnethelper.app-main-50:/mipmap-xxhdpi/mahiro.jpg"
+    }
+]
